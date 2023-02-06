@@ -1,0 +1,66 @@
+
+
+body{
+    
+}
+.------------------------------------------{}
+
+.border-re{
+    border-radius: 3px;
+}
+.------------------------------------------{}
+
+.h{
+    height: 70px;
+}
+.font-size{
+    padding: 8px 60px;
+    font-size: 16px;
+}
+
+.about{
+    font-size: 18px;
+    padding: 4px 60px;
+    border-radius: 3px;
+}
+.fa-mug-hot{
+    font-size: 30px;
+}
+.------------------------------------------{}
+
+.icon-size {
+    font-size: 34px;
+    text-align: center;
+}
+
+.------------------------------------------{}
+.------------------------------------------{}
+
+.about:active,.about:hover {
+    background: rgb(0, 153, 255);
+    transition: .5s;
+}
+.--------------------{}
+
+.fa-mug-hot:active,.fa-mug-hot:hover {
+    background-color: orchid;
+    transition: .6s;
+    border-radius: 30px;
+    padding: 7px 7px;
+}
+.------------------------------------------{}
+.------------------------------------------{}
+
+.Allah-Tumi-Mohan {
+    background-image: url(background/tutul.jpg);
+    height: 700px;
+    background-size: cover;
+}
+.------------------------------------------{}
+
+h1{
+    padding-top: 1%;
+    font-size: 60px;
+    text-align: center;
+    padding-right: 40%;
+}
